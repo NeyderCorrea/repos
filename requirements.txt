@@ -26,7 +26,6 @@ psycopg2-binary==2.9.3
 pycairo==1.21.0
 pycodestyle==2.8.0
 pycountry==20.7.3
-PyGObject==3.42.1
 pyinstaller==5.5
 pyinstaller-hooks-contrib==2022.10
 pyparsing==3.0.9
